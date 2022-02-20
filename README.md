@@ -1,0 +1,2 @@
+# docs
+Super Kube documentation
